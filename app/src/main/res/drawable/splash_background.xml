@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        tools:height="640dp"
+        tools:width="360dp">
+        <shape>
+            <gradient
+                android:angle="90"
+                android:centerColor="#04010A"
+                android:endColor="#100C25"
+                android:startColor="#0B253C" />
+        </shape>
+    </item>
+    <item android:gravity="center" android:drawable="@drawable/ic_meme_space">
+    </item>
+</layer-list>

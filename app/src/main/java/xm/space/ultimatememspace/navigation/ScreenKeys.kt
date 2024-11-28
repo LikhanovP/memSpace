@@ -1,0 +1,37 @@
+package xm.space.ultimatememspace.navigation
+
+const val WAIT_SITUATION = "WAIT_SITUATION"
+
+const val WAIT_MEME = "WAIT_MEME"
+
+const val WAIT_BEST_MEME = "WAIT_BEST_MEME"
+
+const val SOME_ERROR = "SOME_ERROR"
+
+const val ROUND_RESULT = "ROUND_RESULT"
+
+const val ON_BOARDING = "ON_BOARDING"
+
+const val GAME_RESULT = "GAME_RESULT"
+
+const val CREATING_GROUP = "CREATING_GROUP"
+
+const val CHOOSE_SITUATION = "CHOOSE_SITUATION"
+
+const val CHOOSE_MEME = "CHOOSE_MEME"
+
+const val CHOOSE_BEST_MEME = "CHOOSE_BEST_MEME"
+
+const val CHOOSE_ROLE_CONTENT = "CHOOSE_ROLE_CONTENT"
+
+const val PROFILE_CONTENT = "PROFILE_CONTENT"
+
+const val QR_SCANNER = "QR_SCANNER"
+
+const val CONNECTED_PLAYERS = "CONNECTED_PLAYERS"
+
+const val ALL_MEMES_PACKS = "ALL_MEMES_PACKS"
+
+const val SERVER_SHUTDOWN = "SERVER_SHUTDOWN"
+
+const val ALL_BAD = "ALL_BAD"

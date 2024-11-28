@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Meme space</string>
+
+    <string name="onboarding_group">Развлекательная игра\nдля вашей компании</string>
+    <string name="onboarding_time">Вам дается время для\nвыбора лучшего мема</string>
+    <string name="onboarding_another_users">Смотрите мемы\nдругих игроков</string>
+    <string name="onboarding_cup">Выбирайте лучшие\nмемы других игроков</string>
+    <string name="onboarding_rocket">Создавайте группу и играйте большой компанией</string>
+
+    <string name="gen_next">Далее</string>
+    <string name="gen_role_admin">Главный пользователь</string>
+    <string name="gen_role_user">Обычный пользователь</string>
+    <string name="gen_its_clear">Понятно</string>
+    <string name="gen_share_friends">Комната</string>
+    <string name="gen_make_sure">Убедитесь, что все подключены к общей Wi-Fi сети</string>
+    <string name="gen_start">Начать</string>
+    <string name="gen_connected">Подключились</string>
+    <string name="gen_profile">Профиль </string>
+    <string name="gen_name">Введите имя</string>
+    <string name="gen_save">Сохранить</string>
+    <string name="gen_players">Игроки</string>
+    <string name="gen_wait_user_choose">Ожидаем выбора ситуации от</string>
+    <string name="gen_choose">Выбрать</string>
+    <string name="gen_choose_situation">Выберите ситуацию</string>
+    <string name="gen_choose_mem">Выбор мема</string>
+    <string name="gen_your_memes">Ваши мемы</string>
+    <string name="gen_situation">Ситуация</string>
+    <string name="gen_round_order">Круг</string>
+    <string name="gen_choose_best_meme">Выбирайте лучший мем</string>
+    <string name="gen_wait_choose_mem">Ожидаем выбора лучшего мема другими игроками</string>
+    <string name="gen_continue_game">Продолжить игру</string>
+    <string name="gen_winner">Победитель</string>
+    <string name="gen_winners">Победители</string>
+    <string name="gen_results">Результаты</string>
+    <string name="gen_game_results">Итоги игры</string>
+    <string name="gen_game_retry">Повторить</string>
+    <string name="gen_qr_scan">Отсканируйте QR код</string>
+    <string name="gen_permission">Отсутствует разрешение</string>
+    <string name="gen_permission_description">Для продолжения разрешите приложению пользоваться камерой</string>
+    <string name="gen_permission_action">Разрешить</string>
+    <string name="gen_please_back">Пожалуйста, нажмите назад еще раз, чтобы выйти</string>
+    <string name="gen_catalog">Каталог</string>
+    <string name="gen_close">Закрыть</string>
+    <string name="gen_accept">Выбрать</string>
+
+    <string name="gen_starter_pack">Стартовый набор</string>
+    <string name="gen_free_memes">Бесплатные мемы</string>
+
+    <string name="gen_famous_people">Знаменитые личности</string>
+    <string name="gen_worth">Это того стоит</string>
+    
+    <string name="gen_legends">Легенды</string>
+    <string name="gen_need_to_know">Их надо знать</string>
+    <string name="gen_avengers">Мстители</string>
+    <string name="gen_avengers_desc">Общий сбор</string>
+    <string name="gen_bale">Кристиан Бейл</string>
+    <string name="gen_bale_desc">Легендарная личность</string>
+    <string name="gen_boys">Сериал "Пацаны"</string>
+    <string name="gen_boys_desc">Патриот, Хоумлендер - называйте как хотите</string>
+    <string name="gen_chicken">Александр Курицын</string>
+    <string name="gen_chicken_desc">Бодибилдер, Мистер вселенная, вот так вот</string>
+    <string name="gen_friend">Дружко</string>
+    <string name="gen_friend_desc">Проверять я конечно это не буду</string>
+    <string name="gen_gachi">Легенды гачи</string>
+    <string name="gen_gachi_desc">Full master, Slaves, Van...</string>
+    <string name="gen_intern">Сериал "Интерны"</string>
+    <string name="gen_intern_desc">Лобанов, Романенко и др.</string>
+    <string name="gen_lapen">Лапенко</string>
+    <string name="gen_mask">Илон Маск</string>
+    <string name="gen_mark">Марк Уолберг</string>
+    <string name="gen_office">Сериал "Офис"</string>
+    <string name="gen_other">Разное</string>
+    <string name="gen_rock">Ну это Скала</string>
+    <string name="gen_stat">Стэтхэм</string>
+    <string name="gen_stat_desc">Поставщик пацанских цитат</string>
+    <string name="gen_table">По болотам</string>
+    <string name="gen_woman">Другое</string>
+
+    <plurals name="gen_memes_count">
+        <item quantity="zero">мемов</item>
+        <item quantity="one">%d мем</item>
+        <item quantity="two">%d мема</item>
+        <item quantity="few">%d мема</item>
+        <item quantity="many">%d мемов</item>
+        <item quantity="other">%d мемов</item>
+    </plurals>
+
+    <string name="gen_already_have">Уже у Вас</string>
+    <string name="gen_already_have_not">Получить</string>
+
+    <string name="gen_server_down">Упс, сервер недоступен</string>
+    <string name="gen_wait_connected_users">Кто-то отключился, момент /nи мы вернёмся к игре</string>
+    <string name="gen_invitation_game">приглашает Вас</string>
+
+    <string name="get_all_bad">Всё плохо</string>
+    <string name="get_try_again">Давай по новой</string>
+
+    <string name="gen_round_count">Кол-во раундов</string>
+</resources>
