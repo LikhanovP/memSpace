@@ -129,6 +129,6 @@ class MainActivity : ComponentActivity() {
 
         private const val DURATION_EXIT_TIME = 200
 
-        private const val DURATION_ENTER_TIME = 500
+        private const val DURATION_ENTER_TIME = 1000
     }
 }
