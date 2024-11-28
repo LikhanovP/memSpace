@@ -1,6 +1,7 @@
 package xm.space.ultimatememspace.xroot
 
 import android.os.Bundle
+import android.util.Log
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.animation.core.tween
@@ -64,6 +65,7 @@ class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        Log.e("App", "appComing")
 
         vm.isOnBoardingWasShowed.onEach { (isOnboardingShowed, isProfileEdit) ->
             setContent {
